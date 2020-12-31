@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+int a=4,b=3,c;
+c=a&b;
+cout<<"a&b="<<c<<"\n";  // And operation
+c=a|b;
+cout<<"a|b="<<c<<"\n";  // Or operation
+c=b>>4;
+cout<<"b>>4"<<c<<"\n"; // shift right
+c=a<<3;
+cout<<"a<<3"<<c<<"\n";  // shift left
+}

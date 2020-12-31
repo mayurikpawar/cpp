@@ -1,0 +1,9 @@
+#include<iostresm>
+using namespace std;
+void main()
+{
+
+int x=10;
+float=89.9;
+cout<<"x=";
+}
